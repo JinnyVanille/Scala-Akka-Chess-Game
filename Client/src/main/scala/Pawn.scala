@@ -1,8 +1,9 @@
 <<<<<<< HEAD
 class Pawn {
 =======
-class Pawn with Piece{
+class Pawn extends Piece{
 >>>>>>> parent of 1a5de5b... Board drawing and piece list generated.
 
 
+}
 }
